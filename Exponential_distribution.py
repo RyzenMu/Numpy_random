@@ -21,4 +21,4 @@ exponential_distribution = np.random.exponential(size=1000)
 sns.distplot(exponential_distribution, hist=False)
 plt.show()
 
-print('---------------------------------------------------------')
+print('------------------------------------------------------------')
