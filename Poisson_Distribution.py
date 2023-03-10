@@ -10,7 +10,7 @@ import numpy as np
 poisson_numbers = np.random.poisson(lam=2, size=10)
 
 print(poisson_numbers)
-print('------------------------------------')
+print('-----------------------....-------------')
 
 #Visualization of Poisson Distribution
 
