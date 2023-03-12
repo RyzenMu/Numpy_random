@@ -2,7 +2,7 @@
 
 # it has two parameters
 
-# df - degree of freedom and size = The shape of the returned array
+# df - degree of freedom and size = The shape of the returned array.
 
 import numpy as np
 
