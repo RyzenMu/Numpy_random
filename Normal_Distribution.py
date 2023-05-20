@@ -7,7 +7,7 @@ import numpy as np
 x = np.random.normal(100, size=(2, 3))
 
 print(x)
-print('----------------------..------------')
+print('-------------###---------..------------')
 
 # Generate a random normal distribution of size 2*3 with mean at 1 and standard deviation of 2:
 
