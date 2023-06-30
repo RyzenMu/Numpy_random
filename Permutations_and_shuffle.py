@@ -7,6 +7,7 @@ arr = np.array([1, 2, 3, 4, 5])
 np.random.shuffle(arr)
 
 print(arr)
+print()
 
 print('-----------------250220223----------------')
 
