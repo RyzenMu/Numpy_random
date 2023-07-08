@@ -22,4 +22,4 @@ pareto_numbers = np.random.pareto(a=2, size=1000)
 sns.distplot(pareto_numbers, kde=False)
 plt.show()
 
-print('-------------------------------------------------')
+print('-----------------...--------------------------------')
